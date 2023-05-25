@@ -8,9 +8,7 @@ Welcome to the Pentaho Repository! This repository serves as a comprehensive res
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Additional Resources](#additional-resources)
+
 
 ## What is Pentaho?
 
@@ -28,9 +26,9 @@ Pentaho is a versatile platform designed to help businesses integrate, analyze, 
 
 To get started with Pentaho, follow these steps:
 
-1. **Installation**: Install the Pentaho platform by referring to the installation instructions in the [Installation Guide](docs/installation-guide.md).
-2. **Configuration**: Configure Pentaho to connect to your data sources, customize settings, and set up security by following the steps outlined in the [Configuration Guide](docs/configuration-guide.md).
-3. **Tutorials**: Explore the [Tutorials](tutorials) directory to find step-by-step guides on various Pentaho features and use cases.
+1. **Installation**: Install the Pentaho platform by referring to the installation instructions in the [Installation Guide](docs/installation-guide.md](https://help.hitachivantara.com/Documentation/Pentaho/9.1/Setup/Pentaho_installation).
+2. **Configuration**: Configure Pentaho to connect to your data sources, customize settings, and set up security by following the steps outlined in the [Configuration Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Pentaho_configuration).
+3. **Tutorials**: Explore the [Tutorials]([tutorials](https://help.hitachivantara.com/Documentation/Pentaho/9.1/Setup/Getting_Started_with_PDI)) directory to find step-by-step guides on various Pentaho features and use cases.
 4. **Sample Data**: Use the sample datasets and scenarios provided in the [Sample Data](sample-data) directory to practice and familiarize yourself with Pentaho's capabilities.
 5. **Community Support**: Engage with the Pentaho user community, ask questions, and seek assistance on the [Pentaho Community Forums](https://community.hitachivantara.com/s/group/0F92A0000004IKKSA2/pentaho-community-edition).
 
@@ -38,9 +36,9 @@ To get started with Pentaho, follow these steps:
 
 For detailed information and instructions, refer to the following documentation:
 
-- [User Guide](docs/user-guide.md): Comprehensive instructions on using Pentaho for various tasks and scenarios.
-- [Transformation Guide](docs/transformation-guide.md): Detailed guidance on data integration and transformation using Pentaho Data Integration (PDI).
-- [Reporting Guide](docs/reporting-guide.md): Step-by-step instructions for creating reports and leveraging Pentaho Reporting capabilities.
-- [Dashboarding Guide](docs/dashboarding-guide.md): Complete reference for building interactive dashboards with Pentaho Dashboard Designer.
-- [Data Mining Guide](docs/data-mining-guide.md): In-depth information on using Pentaho Data Mining (PDM) for data analysis and modeling.
-- [Administration Guide](docs/admin
+- [User Guide](docs/user-guide.md](https://docs.huihoo.com/pentaho/pentaho-business-analytics/4.8/pdi_user_guide.pdf): Comprehensive instructions on using Pentaho for various tasks and scenarios.
+- [Transformation Guide](https://help.hitachivantara.com/Documentation/Pentaho/8.1/Products/Data_Integration/Data_Integration_Perspective): Detailed guidance on data integration and transformation using Pentaho Data Integration (PDI).
+- [Reporting Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Getting_started_with_Report_Designer): Step-by-step instructions for creating reports and leveraging Pentaho Reporting capabilities.
+- [Dashboarding Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Get_started_with_Dashboard_Designer): Complete reference for building interactive dashboards with Pentaho Dashboard Designer.
+- [Data Mining Guide](https://help.hitachivantara.com/Documentation/Pentaho/8.2/Setup/Administration/Performance_Tuning/Weka): In-depth information on using Pentaho Data Mining (PDM) for data analysis and modeling.
+- [Administration Guide](https://help.hitachivantara.com/Documentation/Pentaho/8.2/Setup/Administration): Detailed documentation on administering and maintaining the Pentaho platform.
