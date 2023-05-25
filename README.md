@@ -28,7 +28,7 @@ To get started with Pentaho, follow these steps:
 
 1. **Installation**: Install the Pentaho platform by referring to the installation instructions in the [Installation Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.1/Setup/Pentaho_installation).
 2. **Configuration**: Configure Pentaho to connect to your data sources, customize settings, and set up security by following the steps outlined in the [Configuration Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Pentaho_configuration).
-3. **Tutorials**: Explore the [Tutorials](https://help.hitachivantara.com/Documentation/Pentaho/9.1/Setup/Getting_Started_with_PDI)) directory to find step-by-step guides on various Pentaho features and use cases.
+3. **Tutorials**: Explore the [Tutorials](https://help.hitachivantara.com/Documentation/Pentaho/9.1/Setup/Getting_Started_with_PDI) directory to find step-by-step guides on various Pentaho features and use cases.
 4. **Sample Data**: Use the sample datasets and scenarios provided in the [Sample Data](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Pentaho_Data_Integration_(PDI)_tutorial) directory to practice and familiarize yourself with Pentaho's capabilities.
 5. **Community Support**: Engage with the Pentaho user community, ask questions, and seek assistance on the [Pentaho Community Forums](https://community.hitachivantara.com/s/group/0F92A0000004IKKSA2/pentaho-community-edition).
 
