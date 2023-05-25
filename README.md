@@ -36,7 +36,7 @@ To get started with Pentaho, follow these steps:
 
 For detailed information and instructions, refer to the following documentation:
 
-- [User Guide](https://docs.huihoo.com/pentaho/pentaho-business-analytics/4.8/pdi_user_guide.pdf): Comprehensive instructions on using Pentaho for various tasks and scenarios.
+- [User Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Pentaho_Data_Integration_(PDI)_tutorial): Comprehensive instructions on using Pentaho for various tasks and scenarios.
 - [Transformation Guide](https://help.hitachivantara.com/Documentation/Pentaho/8.1/Products/Data_Integration/Data_Integration_Perspective): Detailed guidance on data integration and transformation using Pentaho Data Integration (PDI).
 - [Reporting Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Getting_started_with_Report_Designer): Step-by-step instructions for creating reports and leveraging Pentaho Reporting capabilities.
 - [Dashboarding Guide](https://help.hitachivantara.com/Documentation/Pentaho/9.0/Setup/Get_started_with_Dashboard_Designer): Complete reference for building interactive dashboards with Pentaho Dashboard Designer.
