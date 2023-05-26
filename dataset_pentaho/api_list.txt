@@ -1,0 +1,20 @@
+NewsAPI
+1. Everything
+contoh 1:
+https://newsapi.org/v2/everything?q=polusi&from=2023-05-30&to=2023-05-10&domains=detik.com
+detil:
+-q=polusi
+-from=2023-05-30
+-to=2023-05-10
+-domains=detik.com
+
+contoh 2:
+https://newsapi.org/v2/everything?q=timnas%20indonesia
+detil:
+-q=timnas%20indonesia
+
+2. Top Headlines
+contoh 1:
+https://newsapi.org/v2/top-headlines?country=id
+detil:
+-country=id
